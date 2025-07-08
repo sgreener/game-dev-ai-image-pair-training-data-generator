@@ -27,7 +27,7 @@ It is possible to process more then two images at a time, generate larger sets o
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/sgreener/game-dev-ai-image-pair-training-data-generator.git
    cd game-dev-ai-image-pair-training-data-generator
    ```
 
