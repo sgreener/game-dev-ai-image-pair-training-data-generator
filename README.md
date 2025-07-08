@@ -11,7 +11,7 @@ albedo/
 roughness/
 ![alt text](images/roughness.png)
 
-It possible to process more then two images at a time, generate larger sets of data.
+It is possible to process more then two images at a time, generate larger sets of data.
 
 > This is a program written using Github Copilot, its clunky and could be made a whole lot faster. Was just a quick hack to get something working.
 
