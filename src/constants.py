@@ -1,0 +1,16 @@
+APP_TITLE = "Training Data Generator"
+
+# Tooltips for Generate Panel
+TILES_TOOLTIP = "Number of tiles to generate."
+HEIGHT_TOOLTIP = "Height of the output tile images in pixels."
+WIDTH_TOOLTIP = "Width of the output tile images in pixels."
+ROTATE_CHECKBOX_TOOLTIP = "Enable random rotation of source images (90/180/270)."
+ROTATE_SLIDER_TOOLTIP = "Percentage chance for an image to be rotated."
+FLIP_CHECKBOX_TOOLTIP = "Enable random flipping of source images (vert/horz)."
+FLIP_SLIDER_TOOLTIP = "Percentage chance for an image to be flipped."
+USE_BIGGER_REGIONS_CHECKBOX_TOOLTIP = "Use a larger area from the source image, region will be scaled down to tile size."
+USE_BIGGER_REGIONS_SLIDER_TOOLTIP = "Percentage chance to use a bigger region."
+OUTPUT_PATH_TOOLTIP = "Directory where the generated data will be saved."
+EXPORT_PREFIX_TOOLTIP = "Prefix for the exported file names."
+IMAGE_TYPE_TOOLTIP = "Image format for the exported files."
+GENERATE_BUTTON_TOOLTIP = "Start the data generation process."
