@@ -2,6 +2,18 @@
 
 This is a tool to help produce training data 'pairs' (or more) for neural networks. It takes groups of source images and generates a set of tiles from each source image. It can also apply random transformations to the images, such as rotation and flipping, to increase the diversity of the training data.
 
+![alt text](images/main_program.png)
+
+Produces lots of little images likes in folders specified...
+
+albedo/
+![alt text](images/albedo.png)
+roughness/
+![alt text](images/roughness.png)
+
+It possible to process more then two images at a time, generate larger sets of data.
+
+
 > This is a program written using Github Copilot, its clunky and could be made a whole lot faster. Was just a quick hack to get something working.
 
 ## Installation
